@@ -1,6 +1,8 @@
+## **Repository Details**
+
 This repository contains Python practice assignments and a mini project (Hotel Billing System) created as part of my learning journey in Python programming.
 
-Assignment-1.ipynb
+## Assignment-1.ipynb
 It Contains basic Python programs covering:
 -Factorial calculation
 -Finding largest number in a list
@@ -10,7 +12,7 @@ It Contains basic Python programs covering:
 -Password generation logic
 
 
-Assignment-2.ipynb
+## Assignment-2.ipynb
 Includes problems such as:
 -List comprehension
 -Lambda functions
@@ -21,7 +23,7 @@ Includes problems such as:
 -Function-based implementations
 
 
-Hotel_Billing.ipynb  Project
+## Hotel_Billing.ipynb  Project
 Features:
 -Menu display
 -Order selection
@@ -31,7 +33,7 @@ Features:
 -Basic exception handling
 -Dictionary-based menu storage
 
-Concepts Used:
+## Concepts Used:
 -Classes and Objects
 -Dictionaries
 -Loops
