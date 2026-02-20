@@ -33,8 +33,6 @@ Features:
 -Basic exception handling
 -Dictionary-based menu storage
 
-
-
 ## Concepts Used:
 -Classes and Objects
 -Dictionaries
@@ -42,3 +40,15 @@ Features:
 -Conditional statements
 -User input handling
 -Try & Except blocks
+
+
+## Courses-1.ipynb
+The program allows users to:
+-Select a course (HR, Finance, Marketing, DS)
+-Choose analytics specialization
+-Select hostel option
+-Enter food duration (in months)
+-Choose transportation type (Semester / Annual)
+-The system then calculates the total annual cost based on selected options and displays a detailed fee breakdown.
+
+
